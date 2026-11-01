@@ -1,0 +1,26 @@
+
+========== STUDENT RECORD MANAGEMENT ==========
+1. Add Student Record
+2. View All Records
+3. Search Student Record
+4. Update Student Record
+5. Delete Student Record
+6. Exit
+================================================
+
+Enter your choice (1-6): 1
+
+--- Add Student Record ---
+Enter Student ID: S101
+Enter Student Name: Yash
+Enter Course: MCA
+Enter Age: 21
+
+Student record added successfully!
+
+--- All Student Records ---
+
+ID             Name                Course              Age
+S101           Yash                MCA                 21
+
+Thank you for using Student Record Management System!
